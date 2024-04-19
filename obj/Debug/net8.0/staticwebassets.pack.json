@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "/home/jesus811/Escritorio/CICLO6/NET 8/05-LAB/obj/Debug/net8.0/scopedcss/projectbundle/05-LAB.bundle.scp.css",
+      "PackagePath": "staticwebassets/05-LAB.bundle.scp.css"
+    },
+    {
+      "Id": "/home/jesus811/Escritorio/CICLO6/NET 8/05-LAB/wwwroot/app.css",
+      "PackagePath": "staticwebassets/app.css"
+    },
+    {
+      "Id": "/home/jesus811/Escritorio/CICLO6/NET 8/05-LAB/wwwroot/bootstrap/bootstrap.min.css",
+      "PackagePath": "staticwebassets/bootstrap/bootstrap.min.css"
+    },
+    {
+      "Id": "/home/jesus811/Escritorio/CICLO6/NET 8/05-LAB/wwwroot/bootstrap/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/bootstrap/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/home/jesus811/Escritorio/CICLO6/NET 8/05-LAB/wwwroot/favicon.png",
+      "PackagePath": "staticwebassets/favicon.png"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.05-LAB.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.05-LAB.props",
+      "PackagePath": "build\\05-LAB.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.05-LAB.props",
+      "PackagePath": "buildMultiTargeting\\05-LAB.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.05-LAB.props",
+      "PackagePath": "buildTransitive\\05-LAB.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
